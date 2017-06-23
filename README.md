@@ -1,5 +1,9 @@
 # Markdown
 
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Markdown入门](http://metman.info/blog/2013/02/27/markdownru-men/)
+
 ![equation](http://latex.codecogs.com/gif.latex? x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a})    
 
 总结下来有2种：1） 使用解析服务器,如latex.codecogs.com  2)在chrome安装[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima/related)
