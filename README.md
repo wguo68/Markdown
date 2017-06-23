@@ -18,5 +18,4 @@
 
 [argmin](http://tex.stackexchange.com/questions/5223/command-for-argmin-or-argmax)
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)   
 
